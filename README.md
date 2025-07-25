@@ -30,14 +30,14 @@
 
 ### 🎞️ Movie Previews
 <div align="center">
-  <img src="app/images/Movie1.jpg" width="300"/>
-  <img src="app/images/Movie2.jpg" width="300"/>
+  <img src="app/Movie1.jpg" width="300"/>
+  <img src="app/Movie2.jpg" width="300"/>
 </div>
 
 ### 📺 TV Show Previews
 <div align="center">
-  <img src="app/images/TvShow1.jpg" width="300"/>
-  <img src="app/images/TvShow2.jpg" width="300"/>
+  <img src="app/TvShow1.jpg" width="300"/>
+  <img src="app/TvShow2.jpg" width="300"/>
 </div>
 
 ---
